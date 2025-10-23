@@ -1,0 +1,9 @@
+{
+  "name": "vendor-management",
+  "version": "1.0.0",
+  "description": "Vendor Management System",
+  "scripts": {
+    "dev": "npx http-server . -p 5173",
+    "start": "npx http-server . -p 5173"
+  }
+}
